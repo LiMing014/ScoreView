@@ -1,0 +1,15 @@
+#ver-nav-bar {
+    /* list-style-type: none; */
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    background-color: #616161;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+    color: white;
+}
+
+.navBar {
+    height: calc(100% - 100px);
+}

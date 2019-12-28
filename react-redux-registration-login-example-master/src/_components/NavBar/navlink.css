@@ -1,0 +1,9 @@
+.nav-link {
+    color: white;
+    font-size: 23px;
+}
+
+#navbar {
+    height: 100%;
+    overflow: auto;
+}
